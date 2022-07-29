@@ -1,3 +1,6 @@
 numpy>=1.20
 tensorflow==2.8.2
 pandas
+matplotlib
+scikit-learn
+tqdm
